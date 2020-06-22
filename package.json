@@ -12,7 +12,8 @@
   "dependencies": {
     "react": "16.11.0",
     "react-native": "0.62.2",
-    "react-native-document-picker": "^3.5.2"
+    "react-native-document-picker": "^3.5.2",
+    "react-native-tcp-socket": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
